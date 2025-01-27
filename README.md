@@ -462,7 +462,7 @@ Instead, the `title` field is only guaranteed to *begin* with the title of the b
 It is allowed to contain extra information about the book after the title.
 Therefore, when searching for a book, we do not want to perform an exact match against the book title.
 
-Recall that in Part 2.a above, we searched the file `boodreads_books.json.gz` with the following regex:
+Recall that in Part 2.a above, we searched the file `goodreads_books.json.gz` with the following regex:
 ```
 "title": "The Name of the Wind"
 ```
